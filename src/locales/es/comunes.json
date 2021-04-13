@@ -1,0 +1,35 @@
+{
+  "confirmar_cancelar": {
+    "btn_cancelar": "Cancelar",
+    "btn_confirmar": "Confirmar",
+    "descripcion": "¿Seguro que desea salir sin guardar?",
+    "titulo": "Confirmar cancelación"
+  },
+  "titulo": {
+    "crear": "Crear",
+    "editar": "Editar"
+  },
+  "columnas_tabla": {
+    "cedula_cliente": "Cédula",
+    "nombre_cliente": "Nombres",
+    "apellido_cliente": "Apellidos",
+    "direccion_cliente": "Dirección",
+    "correo_cliente": "Correo",
+    "telefono_cliente": "Teléfono principal",
+    "telefono2_cliente": "Teléfono secundario",
+    "celular_cliente": "Celular",
+    "numero_cargo_cliente": "Número de cargo",
+    "descripcion_cargo_cliente": "Descripción del cargo",
+    "numero_ciudad_cliente": "Número de ciudad",
+    "descripcion_ciudad_cliente": "Descripción de ciudad",
+    "genero_cliente": "Género",
+    "numero_comunidad_cliente": "Número comunidad",
+    "descripcion_comunidad_cliente": "Descripción comunidad",
+    "descripcion_empresa_cliente": "Empresa",
+    "numero_division_cliente": "Número división",
+    "descripcion_division_cliente": "Descripción división",
+    "numero_pais_cliente": "Número de país",
+    "descripcion_pais_cliente": "Descripción de país",
+    "hobbies_clientes" : "Diversiones"
+  }
+}
