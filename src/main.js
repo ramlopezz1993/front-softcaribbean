@@ -3,6 +3,8 @@ import App from './App.vue'
 import vuetify from './plugins/vuetify';
 import router from './router'
 import i18n from './i18n'
+import './plugins/axios'
+import './plugins/vee-validate'
 
 Vue.config.productionTip = false
 
